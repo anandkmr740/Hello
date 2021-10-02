@@ -1,0 +1,3 @@
+clas Hello{
+public static voiud main(String [] args)
+}
